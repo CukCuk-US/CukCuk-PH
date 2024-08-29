@@ -1,29 +1,39 @@
-# 🎉 **Welcome to the File Download Support Page!** 
+# 🎉 **Welcome to CukCuk Mobile Philippines!**
 
-Cảm ơn bạn đã ghé thăm! Dưới đây là tất cả các tài liệu và file bạn cần. Chúng tôi đã sắp xếp chúng một cách hợp lý để bạn có thể tìm thấy nhanh chóng và dễ dàng.
+Thank you for visiting! Below are all the necessary installation files. We have organized them by version so you can find what you need quickly and easily.
 
-## 📚 **Hướng dẫn tải file**
-Để tải file, chỉ cần nhấp vào liên kết bên dưới. Nếu gặp bất kỳ vấn đề nào, vui lòng liên hệ với chúng tôi.
-
----
-
-## 🗂️ **Danh sách các file có sẵn**
-### RC4
-[CukCuk Sales (PH)](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/Sale_RC4_0_0_0.apk)
----
-[CukCuk Manager (PH)](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/Manager_RC4_0_0_0.apk)
----
-[CukCuk KDS (PH)](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/KDS_RC4_0_0_0.apk)
----
-
-
-## 📧 **Liên hệ hỗ trợ**
-
-Nếu bạn cần hỗ trợ thêm, vui lòng liên hệ với chúng tôi qua email [support@example.com](mailto:support@example.com). Chúng tôi luôn sẵn sàng giúp đỡ!
+## 📚 **How to Download Files**
+To download a file, simply click the corresponding link. If you encounter any issues, please contact us.
 
 ---
 
-## 🚀 **Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi!**
-Chúng tôi rất vui mừng được hỗ trợ bạn. Đừng ngần ngại chia sẻ ý kiến hoặc phản hồi của bạn với chúng tôi.
+## 🗂️ **Installation Files**
 
-![Thank you](https://example.com/thank_you_image.png)
+### Version RC5
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC5.0.0 | [Download](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC5/Sales_RC5_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC5.0.0 | [Download](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC5/Manager_RC5_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC5.0.0 | [Download](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC5/KDS_RC5_0_0_0.apk) |
+
+### Version RC4
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC4.0.0 | [Download](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/Sale_RC4_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC4.0.0 | [Download](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/Manager_RC4_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC4.0.0 | [Download](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/KDS_RC4_0_0_0.apk) |
+
+---
+
+## 📧 **Contact Support**
+
+If you need further assistance, please contact us via email at [mobiletttc@software.misa.com.vn](mailto:mobiletttc@software.misa.com.vn). We are always ready to help!
+
+---
+
+## 🚀 **Thank You for Using Our Service!**
+We are delighted to support you. Feel free to share your feedback or suggestions with us.
+
+Thank you!
