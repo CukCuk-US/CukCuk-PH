@@ -9,8 +9,12 @@ Cảm ơn bạn đã ghé thăm! Dưới đây là tất cả các tài liệu v
 
 ## 🗂️ **Danh sách các file có sẵn**
 ### RC4
+[CukCuk Sales (PH)](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/Sale_RC4_0_0_0.apk)
 ---
-Sales: https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/Sale_RC4_0_0_0.apk
+[CukCuk Manager (PH)](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/Manager_RC4_0_0_0.apk)
+---
+[CukCuk KDS (PH)](https://raw.githubusercontent.com/CukCuk-US/CukCuk-PH/main/RC4/KDS_RC4_0_0_0.apk)
+---
 
 
 ## 📧 **Liên hệ hỗ trợ**
