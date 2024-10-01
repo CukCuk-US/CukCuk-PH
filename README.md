@@ -9,6 +9,14 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+### Version RC6
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC6 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC6/Sale_RC6_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC6 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC6/Manager_RC6_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC6 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC6/KDS_RC6_0_0_0.apk) |
+
 ### Version RC5
 
 | Application | Version | Download |
