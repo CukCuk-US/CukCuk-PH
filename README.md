@@ -14,6 +14,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 | Application | Version | Download |
 |---|---|---|
 | **CukCuk Sales (PH)** | RC7 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC7/Sale_RC7_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC7 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC7/Manager_RC7_0_0_0.apk) |
 | **CukCuk KDS (PH)** | RC7 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC7/KDS_RC7_0_0_0.apk) |
 
 ### Version RC6
