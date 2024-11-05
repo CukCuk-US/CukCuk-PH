@@ -9,7 +9,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
-### Version RC7
+### Version RC7 (Staging)
 
 | Application | Version | Download |
 |---|---|---|
