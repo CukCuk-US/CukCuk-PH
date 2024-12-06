@@ -15,7 +15,6 @@ To download a file, simply click the corresponding link. If you encounter any is
 |---|---|---|
 | **CukCuk Sales (PH)** | RC7 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC7/Sale_RC7_0_0_0.apk) |
 | **CukCuk Manager (PH)** | RC7 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC7/Manager_RC7_0_0_0.apk) |
-| **CukCuk KDS (PH)** | RC7 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC7/KDS_RC7_0_0_0.apk) |
 
 ### Version RC6
 
@@ -23,7 +22,6 @@ To download a file, simply click the corresponding link. If you encounter any is
 |---|---|---|
 | **CukCuk Sales (PH)** | RC6 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC6/Sale_RC6_0_0_0.apk) |
 | **CukCuk Manager (PH)** | RC6 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC6/Manager_RC6_0_0_0.apk) |
-| **CukCuk KDS (PH)** | RC6 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC6/KDS_RC6_0_0_0.apk) |
 
 ### Version RC5
 
