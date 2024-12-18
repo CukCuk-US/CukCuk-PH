@@ -2,6 +2,16 @@
 
 Thank you for visiting! Below are all the necessary installation files for CukCuk Mobile Philippines. We have organized them by version and application to help you find what you need quickly and easily.
 
+CH Play:
+[CukCuk Manager (PH)](https://play.google.com/store/apps/details?id=vn.com.misa.cukcukmanagerph.phl)
+
+Appstore:
+[CukCuk Manager (PH)](https://apps.apple.com/us/app/cukcuk-manager-ph/id6608965421)
+
+Testflight:
+[CukCuk Manager (PH)](https://testflight.apple.com/join/EqEFwcfV)
+
+
 ## 📚 **How to Download Files**
 To download a file, simply click the corresponding link. If you encounter any issues, please contact us.
 
