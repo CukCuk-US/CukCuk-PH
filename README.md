@@ -24,7 +24,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 | Application | Version | Download |
 |---|---|---|
 | **CukCuk Sales (PH)** | RC8 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC8/Sale_RC8_0_0_0.apk) |
-| **CukCuk KDS (PH)** | RC8 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC8/KDS_RC8_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC8.1 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC8.1/KDS_RC8_1_0_0.apk) |
 
 ### Version RC7
 
