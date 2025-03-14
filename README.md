@@ -19,6 +19,14 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+### Version RC11
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC11 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC11/Sales_RC11_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC11 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC11/Manager_RC11_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC11 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC11/KDS_RC11_0_0_0.apk) |
+
 ### Version RC10
 
 | Application | Version | Download |
