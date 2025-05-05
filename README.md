@@ -23,11 +23,19 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Sales (PH)** | RC12 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC12/Sale_RC12_0_0_0.apk) |
-| **CukCuk Manager (PH)** | RC11 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC11/Manager_RC11_0_0_0.apk) |
-| **CukCuk KDS (PH)** | RC12 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC12/KDS_RC12_0_0_0.apk) |
+| **CukCuk Sales (PH)** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC13/Sales_RC13_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC13/Manager_RC13_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC13/KDS_RC13_0_0_0.apk) |
 
 ---
+
+### Version RC13
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC13/Sales_RC13_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC13/Manager_RC13_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC13/KDS_RC13_0_0_0.apk) |
 
 ### Version RC12
 
