@@ -27,7 +27,8 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Manager (PH)** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC13/Manager_RC13_0_0_0.apk) |
 | **CukCuk KDS (PH)** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC13/KDS_RC13_0_0_0.apk) |
 
----
+<details>
+<summary>📦 Click to view Older Versions</summary>
 
 ### Version RC13
 
@@ -97,7 +98,9 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Manager (PH)** | RC4 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC4/Manager_RC4.apk) |
 | **CukCuk KDS (PH)** | RC4 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC4/KDS_RC4.apk) |
 
----
+
+</details>
+
 
 ## 📧 **Contact Support**
 
