@@ -1,3 +1,12 @@
+### Version RC14
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC14 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC14/Sales_RC14_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC14 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC14/Manager_RC14_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC14 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC14/KDS_RC14_0_0_0.apk) |
+
+
 ### Version RC13
 
 | Application | Version | Download |
