@@ -1,3 +1,9 @@
+### Version RC15
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk KDS (PH)** | RC15 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC15/KDS_RC15_0_0_0.apk) |
+
 ### Version RC14
 
 | Application | Version | Download |
