@@ -1,3 +1,11 @@
+### Version RC16
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC16/Sale_PH_RC16_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC16/Manager_PH_RC16_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC16/KDS_PH_RC16_0_0_0.apk) |
+
 ### Version RC15
 
 | Application | Version | Download |
