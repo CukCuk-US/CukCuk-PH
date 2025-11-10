@@ -23,8 +23,8 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Sales (PH)** | RC18 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC18/Sales_PH_RC18_0_0_0.apk) |
-| **CukCuk Manager (PH)** | RC18 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC18/Manager_PH_RC18_0_0_0.apk) |
+| **CukCuk Sales (PH)** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC19/Sale_PH_RC19_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC19/Manager_PH_RC19_0_0_0.apk) |
 | **CukCuk KDS (PH)** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC16/KDS_PH_RC16_0_0_0.apk) |
 
 ### Old Versions
