@@ -1,3 +1,10 @@
+### Version RC18
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC18 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC18/Sales_PH_RC18_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC18 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC18/Manager_PH_RC18_0_0_0.apk) |
+
 ### Version RC17
 
 | Application | Version | Download |
