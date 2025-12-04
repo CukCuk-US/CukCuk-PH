@@ -1,3 +1,10 @@
+### Version RC19
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC19/Sale_PH_RC19_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC19/Manager_PH_RC19_0_0_0.apk) |
+
 ### Version RC18
 
 | Application | Version | Download |
