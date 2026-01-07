@@ -1,3 +1,11 @@
+### Version RC20
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC20 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC20/Sale_PH_RC20_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC20 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC20/Manager_PH_RC20_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC20 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC20/KDS_PH_RC20_0_0_0.apk) |
+
 ### Version RC19
 
 | Application | Version | Download |
