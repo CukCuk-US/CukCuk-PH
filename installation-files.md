@@ -1,3 +1,12 @@
+
+### Version RC21
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | RC21 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC21/Sale_PH_RC21_0_0_0.apk) |
+| **CukCuk Manager (PH)** | RC21 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC21/Manager_PH_RC21_0_0_0.apk) |
+| **CukCuk KDS (PH)** | RC21 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC21/KDS_PH_RC21_0_0_0.apk) |
+
 ### Version RC20
 
 | Application | Version | Download |
