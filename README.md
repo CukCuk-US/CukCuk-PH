@@ -23,7 +23,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Sales (PH)** | R134 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/R134/Sale_PH_R134_0_0_0.apk) |
+| **CukCuk Sales (PH)** | R134 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/R134/Sales_PH_R134_0_0_0.apk) |
 | **CukCuk Manager (PH)** | R134 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/R134/Manager_PH_R134_0_0_0.apk) |
 | **CukCuk KDS (PH)** | RC21 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/RC21/KDS_PH_RC21_0_0_0.apk) |
 
