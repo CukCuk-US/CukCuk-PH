@@ -1,3 +1,9 @@
+### Lastest Version
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Sales (PH)** | R134 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/R134/Sales_PH_R134_0_0_0.apk) |
+| **CukCuk Manager (PH)** | R134 | [Download](https://github.com/CukCuk-US/CukCuk-PH/releases/download/R134/Manager_PH_R134_0_0_0.apk) |
 
 ### Version RC21
 
